@@ -1,9 +1,11 @@
+
 body{
   background-color:#737373;
   /* border-style: solid;
   border-color: #463988; */
   /* border-width: 100px; */
 }
+
 .header-full {
   height: 100vh;
   min-height: 500px;
