@@ -19,6 +19,8 @@ body{
 }
 .about-me{
   /* background-color: #737373; */
+  height: auto;
+  padding-bottom: 10px;
 }
 .about-me h1{
   color: #444;
@@ -92,10 +94,14 @@ body{
   background: linear-gradient(rgba(0, 0,0 ,0.7), rgba(0, 0,0 ,0.7)),url("4.jpg");
   /* background-image: url("skillspic.jpg"); */
   background-color: #cccccc; /* Used if the image is unavailable */
-  height: 500px;
+  height: auto;
   background-position: center; 
   background-repeat: no-repeat; 
   background-size: cover;
+}
+.skill-container h1{
+  color: white;
+  font-style: italic bold;
 }
 
 .skill-group-bar{
